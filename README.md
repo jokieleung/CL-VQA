@@ -1,5 +1,5 @@
 # Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering
-The source code for our paper "Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering" published in EMNLP 2020. This repo contains code modified from [CSS-VQA](https://github.com/yanxinzju/CSS-VQA), Many thanks for their efforts.
+The source code for our paper [Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering](https://www.aclweb.org/anthology/2020.emnlp-main.265.pdf) published in EMNLP 2020. This repo contains code modified from [CSS-VQA](https://github.com/yanxinzju/CSS-VQA), Many thanks for their efforts.
 
 ### Prerequisites
 
