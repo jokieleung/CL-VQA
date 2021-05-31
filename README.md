@@ -43,3 +43,17 @@ Run
 CUDA_VISIBLE_DEVICES=0 python eval.py --dataset [] --debias [] --model_state []
 ```
 to eval a model
+
+## Citation
+
+If you find this paper helps your research, please kindly consider citing our paper in your publications.
+
+```BibTeX
+@inproceedings{liang2020learning,
+  title={Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering},
+  author={Liang, Zujie and Jiang, Weitao and Hu, Haifeng and Zhu, Jiaying},
+  booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2020}
+}
+```
+
