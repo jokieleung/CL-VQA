@@ -19,11 +19,7 @@ All data preprocess and set up please refer to [bottom-up-attention-vqa](https:/
 bash tools/download.sh
 ```
 
-2. Please run the script to preprocess the data.
-
-```
-bash tools/download.sh
-```
+2. Please click the link [HERE](https://drive.google.com/drive/folders/13e-b76otJukupbjfC-n1s05L202PaFKQ?usp=sharing) to download the rest of the data, which is kindly shared by [CSS-VQA](https://github.com/yanxinzju/CSS-VQA).
 
 
 
